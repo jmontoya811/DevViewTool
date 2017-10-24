@@ -20,7 +20,10 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+DevViewTool::Renderer.copyright 'Jordan M', 'All rights reserved'
+```
+
 
 ## Development
 
